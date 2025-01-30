@@ -1,6 +1,6 @@
 # My suckless terminal build
 
-This is based on [Luke Smiths]() st config. It just changes a few minor things.
+This is based on [Luke Smiths](https://github.com/LukeSmithxyz/st) st config. It just changes a few minor things.
 
 ## Changes
 
